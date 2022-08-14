@@ -1,0 +1,2 @@
+# React_JS_OTUS_TypeScript_Part_2-
+TypeScript_Part_2_Hometask
